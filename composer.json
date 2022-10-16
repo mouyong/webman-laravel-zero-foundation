@@ -8,7 +8,6 @@
     },
     "autoload": {
         "files": [
-            "src/Illuminate/Foundation/helpers.php"
         ],
         "psr-4": {
             "Illuminate\\": "src/Illuminate/"
